@@ -1,6 +1,6 @@
 state("Stalker2-Win64-Shipping")
 {
-	float isLoading: 0x7A83450;
+	uint isLoading: 0x7A83450;
 }
 
 isLoading
