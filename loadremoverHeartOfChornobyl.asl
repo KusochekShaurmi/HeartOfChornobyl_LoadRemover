@@ -1,9 +1,9 @@
 state("Stalker2-Win64-Shipping")
 {
-	uint isLoading: 0x8A0C370;
+	uint isLoading: 0x79AD3E0;
 }
 
 isLoading
 {
-	return current.isLoading == 0;
+	return current.isLoading == 1;
 }
